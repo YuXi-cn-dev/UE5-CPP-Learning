@@ -19,4 +19,4 @@
 一个是顺序存储（TArray），一个是键值映射（TMap）。这个月算是把“存东西”和“找东西”给搞明白了。基础已打牢，接下来尝试将这些数据结构应用到简单的 Gameplay 逻辑中，继续加油！
 
 ---
-*备注：本仓库仅包含代码部分（Source、Config、uproject），不包含美术资产（Content），克隆后需自行生成 Visual Studio 项目文件。*
+*备注：本仓库仅包含代码部分（Source、Config、uproject），不包含美术资产（Content），项目内的代码只是用于学习，克隆后需自行生成 Visual Studio 项目文件。*
