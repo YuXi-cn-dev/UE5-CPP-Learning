@@ -35,5 +35,5 @@ UE5 C++ 学习记录
 9月把“存东西”和“按 key 找东西”搞明白了，10 月又补上了“判断有没有、顺便去重”的 TSet。现在 TArray 管顺序，TMap 管映射，TSet 管唯一性和存在性判断，三者配合起来能覆盖不少基础 Gameplay 数据结构需求。下一步可以尝试做一些简单的UE C++ Gameplay 岗笔试题。
 
 ---
-*备注：本仓库仅包含代码部分（Source、Config、uproject），UE C++ Gameplay 岗笔试题(基础版)，不包含美术资产（Content），项目内的代码只是用于学习，克隆后需自行生成 Visual Studio 项目文件。*
+*备注：本仓库仅包含代码部分（Source、Config、uproject），UE C++ Gameplay 岗笔试题(基础版)，UE C++ Gameplay练习案例，不包含美术资产（Content），项目内的代码只是用于学习，克隆后需自行生成 Visual Studio 项目文件。*
 ```
